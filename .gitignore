@@ -1,0 +1,12 @@
+
+
+# Ignore virtual environment directory
+venv/
+Testing/
+Training/
+saliency_maps/
+.env
+cnn_model.h5
+resnet101_model.h5
+vgg16_model.h5
+trained_xception_model.weights.h5
